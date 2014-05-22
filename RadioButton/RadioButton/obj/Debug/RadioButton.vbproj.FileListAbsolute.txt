@@ -1,0 +1,10 @@
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\RadioButton\RadioButton\bin\Debug\RadioButton.exe.config
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\RadioButton\RadioButton\bin\Debug\RadioButton.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\RadioButton\RadioButton\bin\Debug\RadioButton.pdb
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\RadioButton\RadioButton\bin\Debug\RadioButton.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\RadioButton\RadioButton\obj\Debug\RadioButton.Form1.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\RadioButton\RadioButton\obj\Debug\RadioButton.Resources.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\RadioButton\RadioButton\obj\Debug\RadioButton.vbproj.GenerateResource.Cache
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\RadioButton\RadioButton\obj\Debug\RadioButton.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\RadioButton\RadioButton\obj\Debug\RadioButton.pdb
