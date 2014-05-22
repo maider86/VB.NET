@@ -1,0 +1,10 @@
+C:\Workspace\Visual Basic .NET\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Workspace\Visual Basic .NET\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Workspace\Visual Basic .NET\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Workspace\Visual Basic .NET\Arrays\Arrays\bin\Debug\Arrays.xml
+C:\Workspace\Visual Basic .NET\Arrays\Arrays\obj\Debug\Arrays.Form1.resources
+C:\Workspace\Visual Basic .NET\Arrays\Arrays\obj\Debug\Arrays.Resources.resources
+C:\Workspace\Visual Basic .NET\Arrays\Arrays\obj\Debug\Arrays.vbproj.GenerateResource.Cache
+C:\Workspace\Visual Basic .NET\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Workspace\Visual Basic .NET\Arrays\Arrays\obj\Debug\Arrays.xml
+C:\Workspace\Visual Basic .NET\Arrays\Arrays\obj\Debug\Arrays.pdb
