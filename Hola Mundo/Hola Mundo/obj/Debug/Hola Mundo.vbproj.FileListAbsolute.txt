@@ -1,0 +1,10 @@
+C:\Workspace\Visual Basic .NET\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe.config
+C:\Workspace\Visual Basic .NET\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe
+C:\Workspace\Visual Basic .NET\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb
+C:\Workspace\Visual Basic .NET\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.xml
+C:\Workspace\Visual Basic .NET\Hola Mundo\Hola Mundo\obj\Debug\Hola_Mundo.Form1.resources
+C:\Workspace\Visual Basic .NET\Hola Mundo\Hola Mundo\obj\Debug\Hola_Mundo.Resources.resources
+C:\Workspace\Visual Basic .NET\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.vbproj.GenerateResource.Cache
+C:\Workspace\Visual Basic .NET\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.exe
+C:\Workspace\Visual Basic .NET\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.xml
+C:\Workspace\Visual Basic .NET\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.pdb
