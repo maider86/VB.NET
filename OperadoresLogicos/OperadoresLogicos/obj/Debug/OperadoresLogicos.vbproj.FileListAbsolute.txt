@@ -1,0 +1,10 @@
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe.config
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\OperadoresLogicos\OperadoresLogicos\bin\Debug\OperadoresLogicos.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.Form1.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.Resources.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.vbproj.GenerateResource.Cache
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\OperadoresLogicos\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb
