@@ -1,0 +1,14 @@
+C:\Workspace\Visual Basic .NET\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Workspace\Visual Basic .NET\Variables\Variables\bin\Debug\Variables.exe
+C:\Workspace\Visual Basic .NET\Variables\Variables\bin\Debug\Variables.pdb
+C:\Workspace\Visual Basic .NET\Variables\Variables\bin\Debug\Variables.xml
+C:\Workspace\Visual Basic .NET\Variables\Variables\obj\Debug\Variables.Form1.resources
+C:\Workspace\Visual Basic .NET\Variables\Variables\obj\Debug\Variables.Resources.resources
+C:\Workspace\Visual Basic .NET\Variables\Variables\obj\Debug\Variables.vbproj.GenerateResource.Cache
+C:\Workspace\Visual Basic .NET\Variables\Variables\obj\Debug\Variables.exe
+C:\Workspace\Visual Basic .NET\Variables\Variables\obj\Debug\Variables.xml
+C:\Workspace\Visual Basic .NET\Variables\Variables\obj\Debug\Variables.pdb
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\Variables\Variables\obj\Debug\Variables.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\Variables\Variables\obj\Debug\Variables.pdb
