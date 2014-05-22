@@ -1,0 +1,10 @@
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\SentenciaIF\SentenciaIF\bin\Debug\SentenciaIF.exe.config
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\SentenciaIF\SentenciaIF\bin\Debug\SentenciaIF.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\SentenciaIF\SentenciaIF\bin\Debug\SentenciaIF.pdb
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\SentenciaIF\SentenciaIF\bin\Debug\SentenciaIF.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\SentenciaIF\SentenciaIF\obj\Debug\SentenciaIF.Form1.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\SentenciaIF\SentenciaIF\obj\Debug\SentenciaIF.Resources.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\SentenciaIF\SentenciaIF\obj\Debug\SentenciaIF.vbproj.GenerateResource.Cache
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\SentenciaIF\SentenciaIF\obj\Debug\SentenciaIF.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\SentenciaIF\SentenciaIF\obj\Debug\SentenciaIF.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\SentenciaIF\SentenciaIF\obj\Debug\SentenciaIF.pdb
