@@ -1,0 +1,10 @@
+C:\Workspace\Visual Basic .NET\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Workspace\Visual Basic .NET\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Workspace\Visual Basic .NET\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Workspace\Visual Basic .NET\Operadores\Operadores\bin\Debug\Operadores.xml
+C:\Workspace\Visual Basic .NET\Operadores\Operadores\obj\Debug\Operadores.Form1.resources
+C:\Workspace\Visual Basic .NET\Operadores\Operadores\obj\Debug\Operadores.Resources.resources
+C:\Workspace\Visual Basic .NET\Operadores\Operadores\obj\Debug\Operadores.vbproj.GenerateResource.Cache
+C:\Workspace\Visual Basic .NET\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Workspace\Visual Basic .NET\Operadores\Operadores\obj\Debug\Operadores.xml
+C:\Workspace\Visual Basic .NET\Operadores\Operadores\obj\Debug\Operadores.pdb
