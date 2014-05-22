@@ -1,0 +1,10 @@
+C:\Workspace\Visual Basic .NET\TextBox\TextBox\bin\Debug\TextBox.exe.config
+C:\Workspace\Visual Basic .NET\TextBox\TextBox\bin\Debug\TextBox.exe
+C:\Workspace\Visual Basic .NET\TextBox\TextBox\bin\Debug\TextBox.pdb
+C:\Workspace\Visual Basic .NET\TextBox\TextBox\bin\Debug\TextBox.xml
+C:\Workspace\Visual Basic .NET\TextBox\TextBox\obj\Debug\TextBox.Form1.resources
+C:\Workspace\Visual Basic .NET\TextBox\TextBox\obj\Debug\TextBox.Resources.resources
+C:\Workspace\Visual Basic .NET\TextBox\TextBox\obj\Debug\TextBox.vbproj.GenerateResource.Cache
+C:\Workspace\Visual Basic .NET\TextBox\TextBox\obj\Debug\TextBox.exe
+C:\Workspace\Visual Basic .NET\TextBox\TextBox\obj\Debug\TextBox.xml
+C:\Workspace\Visual Basic .NET\TextBox\TextBox\obj\Debug\TextBox.pdb
