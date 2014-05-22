@@ -1,0 +1,10 @@
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\BucleFor\BucleFor\bin\Debug\BucleFor.exe.config
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\BucleFor\BucleFor\bin\Debug\BucleFor.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\BucleFor\BucleFor\bin\Debug\BucleFor.pdb
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\BucleFor\BucleFor\bin\Debug\BucleFor.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\BucleFor\BucleFor\obj\Debug\BucleFor.Form1.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\BucleFor\BucleFor\obj\Debug\BucleFor.Resources.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\BucleFor\BucleFor\obj\Debug\BucleFor.vbproj.GenerateResource.Cache
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\BucleFor\BucleFor\obj\Debug\BucleFor.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\BucleFor\BucleFor\obj\Debug\BucleFor.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\BucleFor\BucleFor\obj\Debug\BucleFor.pdb
