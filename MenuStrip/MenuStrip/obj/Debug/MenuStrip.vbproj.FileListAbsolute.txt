@@ -1,0 +1,10 @@
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe.config
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\bin\Debug\MenuStrip.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\bin\Debug\MenuStrip.pdb
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\bin\Debug\MenuStrip.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Form1.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\obj\Debug\MenuStrip.Resources.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\obj\Debug\MenuStrip.vbproj.GenerateResource.Cache
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\obj\Debug\MenuStrip.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\obj\Debug\MenuStrip.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\obj\Debug\MenuStrip.pdb
