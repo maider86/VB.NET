@@ -8,3 +8,4 @@ C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\obj\Debug\
 C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\obj\Debug\MenuStrip.exe
 C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\obj\Debug\MenuStrip.xml
 C:\Users\Maider\Desktop\RepositoriosGitHub\VB.NET\MenuStrip\MenuStrip\obj\Debug\MenuStrip.pdb
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\menuStrip\MenuStrip\obj\Debug\MenuStrip.Form2.resources
