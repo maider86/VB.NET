@@ -1,0 +1,10 @@
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\FuncionesSinParametros\FuncionesSinParametros\bin\Debug\FuncionesSinParametros.exe.config
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\FuncionesSinParametros\FuncionesSinParametros\bin\Debug\FuncionesSinParametros.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\FuncionesSinParametros\FuncionesSinParametros\bin\Debug\FuncionesSinParametros.pdb
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\FuncionesSinParametros\FuncionesSinParametros\bin\Debug\FuncionesSinParametros.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\FuncionesSinParametros\FuncionesSinParametros\obj\Debug\FuncionesSinParametros.Form1.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\FuncionesSinParametros\FuncionesSinParametros\obj\Debug\FuncionesSinParametros.Resources.resources
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\FuncionesSinParametros\FuncionesSinParametros\obj\Debug\FuncionesSinParametros.vbproj.GenerateResource.Cache
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\FuncionesSinParametros\FuncionesSinParametros\obj\Debug\FuncionesSinParametros.exe
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\FuncionesSinParametros\FuncionesSinParametros\obj\Debug\FuncionesSinParametros.xml
+C:\Users\Maider\Desktop\RepositoriosGitHub\VB.net\FuncionesSinParametros\FuncionesSinParametros\obj\Debug\FuncionesSinParametros.pdb
